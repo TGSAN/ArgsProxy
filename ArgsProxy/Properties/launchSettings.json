@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ArgsProxy": {
+      "commandName": "Project",
+      "commandLineArgs": "111 222 333"
+    }
+  }
+}
